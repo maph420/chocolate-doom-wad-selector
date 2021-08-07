@@ -1,0 +1,3 @@
+#agregar excepciones si ingreso un no entero como index de wad
+#agregar excepcion si no se encuentra WAD en el directorio
+#si tengo ganas mejorar interfaz
